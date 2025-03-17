@@ -1,0 +1,6 @@
+/backend/node_modules
+/web-app/node_modules
+/mobile-app/node_modules
+/backend/.env
+/web-app/.env
+/mobile-app/.env
